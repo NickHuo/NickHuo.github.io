@@ -3,7 +3,7 @@ layout: post
 title: Here's to the crazy ones:
 description: Think different
 summary: Think different
-summary: Product
+tags: Product
 ---
 
 Here's to the crazy ones.
