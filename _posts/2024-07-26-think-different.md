@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Here's to the crazy ones:
+title: Here's to the crazy ones
 description: Think different
 summary: Think different
-tags: Product
+tags: product
 ---
 
 Here's to the crazy ones.
